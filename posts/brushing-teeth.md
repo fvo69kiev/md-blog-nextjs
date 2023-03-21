@@ -4,7 +4,7 @@ date: 'Травень 12, 2022'
 excerpt: 'Чистити зуби необхідно всім собакам, особливо маленьким, так як саме у них проблема зубів найбільш виражена через особливості будови кісток голови і щелепи.'
 cover_image: '/images/posts/brushing-teeth.jpg'
 category: 'Brushing'
-author: 'Марина Джерельна'
+author: 'Катя Жус'
 author_image: 'https://randomuser.me/api/portraits/women/11.jpg'
 ---
 
