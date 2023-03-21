@@ -4,7 +4,7 @@ date: 'Травень 11, 2022'
 excerpt: 'Якщо ви хотіли взяти участь у Groom Show, то цей розділ для вас'
 cover_image: '/images/posts/exhibition-grooming.jpeg'
 category: 'Exhibition'
-author: 'Катя Жус'
+author: 'Джейн Доу'
 author_image: 'https://randomuser.me/api/portraits/women/11.jpg'
 ---
 1. Грумер, дивлячись на собаку чи кішку, може дати рекомендації щодо покращення зовнішнього вигляду шерсті, можливо, потрібно відростити шерсть у місцях, де вона регулярно ламається або січеться.
