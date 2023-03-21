@@ -1,13 +1,14 @@
 ---
-title: 'Creative grooming'
-date: 'May 11, 2022'
-excerpt: 'Kids are usually thrilled when they pick up their pet after creative grooming!'
+title: 'Креативний грумінг'
+date: 'Травень 11, 2022'
+excerpt: 'Діти зазвичай у захваті, коли беруть свого улюбленця після творчої стрижки!'
 cover_image: '/images/posts/creative-grooming.jpg'
 category: 'Creative'
-author: 'John Doe'
+author: 'Ігор Гук'
 author_image: 'https://randomuser.me/api/portraits/men/11.jpg'
 ---
 
-1. Dyeing wool with powders, chalks, tinting paints will bring brightness and originality, do not harm the health of your pet and do not require long waits for the animal on the grooming table.
-2. You can also cut an original pattern on the wool, decorate with rhinestones any element - and your pet will become a charming hero.
+1. Фарбування вовни порошками, крейдою, тонуючими фарбами привнесе яскравість і оригінальність, не зашкодить здоров'ю вашого вихованця і не потребує тривалого очікування тварини на грумінгу.
+2. Також на шерсті можна вистригти оригінальний візерунок, прикрасити стразами будь-який елемент - і ваш вихованець стане чарівним героєм.
 
+Саме головне, щоб результат цього творчого процессу повністю влаштовував як вас так і головного героя креативного грумінгу. Задоволення повинне бути в усіх.
