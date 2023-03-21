@@ -1,21 +1,21 @@
 ---
-title: 'Bathing & combing'
-date: 'May 3, 2022'
-excerpt: 'Combing is performed while bathing the animal at least once every 2 weeks'
+title: 'Купання і розчісування'
+date: 'Травень 3, 2022'
+excerpt: 'Вичісування проводять під час купання тварини не рідше 1 разу на 2 тижні'
 cover_image: '/images/posts/bathing-combing.jpg'
 category: 'Bathing'
-author: 'Sam Smith'
+author: 'Сем Сміт'
 author_image: 'https://randomuser.me/api/portraits/men/12.jpg'
 ---
 
-## What are the Benefits of Brushing and Combing Your Dog's Hair?
+## Які переваги вичісування шерсті вашої собаки?
 
-1. Minimizes tangled and matted hair
-2. Reduces coat shedding
-3. May discover bumps and lumps on their skin
-4. Makes it easier to detect fleas and ticks
-5. Promotes a healthy coat
-6. Builds a trusting relationship between you and your dog
-7. Stimulates the natural oils in their coat
-8. Your dog becomes accustomed to a comfortable pampering process
-9. Keeps your dog looking good
+1. Зменшує заплутане та сплутане волосся
+2. Зменшує випадання шерсті
+3. Може виявити нерівності та грудочки на шкірі
+4. Полегшує виявлення бліх та кліщів
+5. Сприяє здоров'ю шерсті
+6. Будує довірливі стосунки між вами та вашою собакою
+7. Стимулює природні олії в їх шерсті
+8. Ваша собака звикає до комфортного процесу лащення
+9. Підтримує гарний вигляд вашої собаки
