@@ -1,20 +1,20 @@
 ---
-title: 'Bathing & ear cleaning'
-date: 'May 3, 2022'
-excerpt: 'Ear cleaning is performed while bathing the animal at least once every 2 weeks'
+title: 'Купання та чищення вух'
+date: 'Травень 3, 2022'
+excerpt: 'Чистку вух проводять під час купання тварини не рідше 1 разу на 2 тижні'
 cover_image: '/images/posts/bathing-ear-cleaning.jpg'
 category: 'Bathing'
-author: 'Sam Smith'
+author: 'Сем Сміт'
 author_image: 'https://randomuser.me/api/portraits/men/12.jpg'
 ---
 
-## How to Clean Dog Ears: A Summary
-Now that you know how to clean dog ears, here are the basics one more time:
+## Як чистити собачі вуха: короткий зміст
+Тепер, коли ви знаєте, як чистити собачі вуха, ось основні моменти ще раз:
 
-1. Know what a healthy, clean ear looks and smells like.
-2. Check your dog’s ears regularly after bathtime.
-3. Cleaning ears too often can cause excessive irritation
-4. Use a veterinarian-approved ear-cleaning solution for dogs.
-5. Contact your veterinarian if you suspect your dog has an ear infection.
+1. Дізнайтесь, як виглядає та пахне здорове чисте вухо.
+2. Регулярно перевіряйте вуха собаки після купання.
+3. Занадто часте чищення вух може викликати надмірне роздратування
+4. Використовуйте схвалений ветеринаром розчин для чищення вух для собак.
+5. Зверніться до свого ветеринара, якщо ви підозрюєте, що у вашої собаки вушна інфекція.
 
-Taking care of your dog’s ears helps prevent infections. Regular ear examinations will also catch any other problems, such as ear mites, before they get worse, and will desensitize your dog to ear handling.
+Догляд за вухами вашої собаки допомагає запобігти інфекціям. Регулярні огляди вух також дозволять виявити будь-які інші проблеми, такі як вушні кліщі, перш ніж вони погіршаться, і зменшать чутливість вашої собаки до поводження з вухами.
