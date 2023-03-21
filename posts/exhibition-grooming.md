@@ -1,19 +1,14 @@
 ---
-title: 'Exhibition grooming'
-date: 'May 11, 2022'
-excerpt: 'If you wanted to take part in the Groom Show, then this section is for you'
+title: 'Виставковий грумінг'
+date: 'Травень 11, 2022'
+excerpt: 'Якщо ви хотіли взяти участь у Groom Show, то цей розділ для вас'
 cover_image: '/images/posts/exhibition-grooming.jpeg'
 category: 'Exhibition'
-author: 'Jane Doe'
+author: 'Катя Жус'
 author_image: 'https://randomuser.me/api/portraits/women/11.jpg'
 ---
-1. A groomer, looking at a dog or cat, can make recommendations for improving the appearance of hair, you may need to grow hair in places where it regularly breaks or cuts.
-2. The groomer will also have the opportunity to try different grooming options - from bathing to haircut, and over time will form the most ideal silhouette.
+1. Грумер, дивлячись на собаку чи кішку, може дати рекомендації щодо покращення зовнішнього вигляду шерсті, можливо, потрібно відростити шерсть у місцях, де вона регулярно ламається або січеться.
+2. Грумер також матиме можливість спробувати різні варіанти догляду - від купання до стрижки, і з часом сформує найбільш ідеальний силует.
 
-Exhibition career is a huge work of the owner, handler and groomer.
-It is necessary to prepare for the exhibition in advance, not one day before the event.
-Therefore, the groomer should also be visited, preferably not the day before the exhibition.
-A groomer, looking at a dog or cat, can make recommendations for improving the appearance of hair, you may need to grow hair in places where it regularly breaks or cuts.
-It takes time.
-The groomer will also have the opportunity to try different grooming options - from bathing to haircut, and in a certain period will form the most ideal version of the silhouette.
-This is a long and interesting work in tandem with the owner, we help you achieve the most desirable results.
+Виставкова кар'єра - це величезна робота власника, хендлера і грумера. Готуватися до виставки необхідно заздалегідь, а не за день до заходу.
+Тому грумера теж варто відвідати, бажано не напередодні виставки. Грумер, дивлячись на собаку або кішку, може дати рекомендації щодо поліпшення зовнішнього вигляду шерсті, можливо, потрібно відростити шерсть в місцях, де вона регулярно ламається або січеться. Це потребує часу. Грумер також матиме можливість спробувати різні варіанти догляду - від купання до стрижки, і за певний період сформує найбільш ідеальний варіант силуету. Це довга і цікава робота в тандемі з господарем, ми допомагаємо вам досягти найбажаніших результатів.
