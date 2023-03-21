@@ -4,7 +4,7 @@ date: 'Травень 11, 2022'
 excerpt: 'Діти зазвичай у захваті, коли беруть свого улюбленця після творчої стрижки!'
 cover_image: '/images/posts/creative-grooming.jpg'
 category: 'Creative'
-author: 'Ігор Гук'
+author: 'Джон Доу'
 author_image: 'https://randomuser.me/api/portraits/men/11.jpg'
 ---
 
