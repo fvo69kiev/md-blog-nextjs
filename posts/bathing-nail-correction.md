@@ -1,23 +1,23 @@
 ---
-title: 'Bathing & nail correction'
-date: 'May 3, 2022'
-excerpt: 'Nail correction is performed while bathing the animal at least once every 2 weeks'
+title: 'Купання та корекція нігтів'
+date: 'Травень 3, 2022'
+excerpt: 'Корекцію кігтів проводять під час купання тварини не рідше 1 разу на 2 тижні'
 cover_image: '/images/posts/bathing-nail-correction.jpg'
 category: 'Bathing'
-author: 'Sam Smith'
+author: 'Сем Сміт'
 author_image: 'https://randomuser.me/api/portraits/men/12.jpg'
 ---
 
-## How can I help my dog avoid broken nails?
+## Як я можу допомогти своїй собаці уникнути зламаних нігтів?
 
-To avoid the hassle of a broken nail, keep your dog’s nails trimmed.
-Short nails are less likely to snag than long ones. Ask your veterinarian or veterinary technician to demonstrate proper nail trimming so you can clip your dog’s nails at home.
-If you are not comfortable doing this, simply make regularly scheduled appointments to have your dog’s nails trimmed at the veterinary hospital.
+Щоб уникнути клопоту зі зламаним нігтем, стрижіть нігті вашої собаки.
+Короткі нігті рідше зачіпаються, ніж довгі. Попросіть свого ветеринара або ветеринарного техніка продемонструвати, як правильно обрізати кігті, щоб ви могли обрізати кігті своїй собаці вдома.
+Якщо вам не зручно це робити, просто заплануйте регулярні зустрічі, щоб вашій собаці підстригли кігті у ветеринарній лікарні.
 
-Regardless of who does the clipping, the goal is to trim the nail as short as possible while avoiding the quick.
-This is easier with white nails where the pinkish quick is readily apparent. Dark nails are more of a challenge.
-The right tools are essential to successful trimming.
-Sharp nail trimmers specially designed for dogs are a big plus.
-**Dull trimmers shred the nail and increase the likelihood of a break.**
+Незалежно від того, хто робить стрижку, мета полягає в тому, щоб підрізати ніготь якомога коротше, уникаючи швидкого.
+Це простіше з білими нігтями, де легко помітний рожевий блиск. Темні нігті - це більший виклик.
+Правильні інструменти необхідні для успішного обрізання.
+Гострі тримери для нігтів, спеціально розроблені для собак, є великим плюсом.
+**Недосвідчені тримери подрібнюють ніготь і збільшують вірогідність зламу.**
 
-Keep maintenance of your dog’s nails on your list of tasks alongside bathing and walking so that you and your dog can avoid the broken nail dilemma.
+Тримайте догляд за кігтями вашої собаки у своєму списку завдань разом із купанням і прогулянками, щоб ви та ваша собака могли уникнути зламаних нігтів.
