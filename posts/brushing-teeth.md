@@ -1,17 +1,14 @@
 ---
-title: 'Brushing teeth'
-date: 'May 12, 2022'
-excerpt: 'Brushing teeth is necessary for all dogs, especially small ones, as it is in them that the problem of teeth is most pronounced due to the specific structure of the bones of the head and jaw'
+title: 'Чищення зубів'
+date: 'Травень 12, 2022'
+excerpt: 'Чистити зуби необхідно всім собакам, особливо маленьким, так як саме у них проблема зубів найбільш виражена через особливості будови кісток голови і щелепи.'
 cover_image: '/images/posts/brushing-teeth.jpg'
 category: 'Brushing'
-author: 'Jane Doe'
+author: 'Марина Джерельна'
 author_image: 'https://randomuser.me/api/portraits/women/11.jpg'
 ---
 
-1. If the dog does not have tartar, but only plaque - just brush your teeth at least once every 3 days.
-2. If you already have tartar formation - it can be removed mechanically - using a conventional scaler or ultrasonic.
+1. Якщо у собаки немає зубного каменю, а тільки зубний наліт - просто чистіть зуби хоча б раз в 3 дні.
+2. Якщо у вас вже є зубний камінь - його можна видалити механічно - за допомогою звичайного скейлера або ультразвуку.
 
-Hygienic procedure is necessary for all dogs, especially small ones, as it is in them that the problem of teeth is most pronounced due to the specific structure of the bones of the head and jaw.
-If the dog does not have tartar, but only plaque - just brush your teeth at least once every 3 days, if you already have tartar - it can be removed mechanically - using a conventional scaler or ultrasound.
-The procedure is not very pleasant for the animal, but it is necessary to maintain a healthy dental system and as a result - overall health.
-We always recommend how to best improve the situation with your teeth or how to maintain dental hygiene for a radiant smile of your pet.
+Гігієнічна процедура необхідна всім собакам, особливо маленьким, так як саме у них проблема зубів проявляється найбільш яскраво через особливості будови кісток голови і щелепи. Якщо у собаки немає зубного каменю, а тільки зубний наліт - просто чистіть зуби не рідше 1 разу на 3 дні, якщо зубний камінь у вас вже є - його можна видалити механічно - за допомогою звичайного скейлера або ультразвуку. Процедура не дуже приємна для тварини, але вона необхідна для підтримки здоров'я зубощелепної системи і як результат - здоров'я в цілому. Ми завжди радимо, як найкраще покращити стан ваших зубів або як підтримувати гігієну зубів для сяючої посмішки вашого вихованця.
