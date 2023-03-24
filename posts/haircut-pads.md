@@ -1,19 +1,19 @@
 ---
-title: 'Haircut & pads of the paws'
-date: 'May 10, 2022'
-excerpt: 'Trimming the hair on the pads of the paws'
+title: 'Стрижка і подушечки лап'
+date: 'Травень 10, 2022'
+excerpt: 'Підстригання шерсті на подушечках лап'
 cover_image: '/images/posts/haircut-pads.jpg'
 category: 'Haircut'
-author: 'Sam Smith'
+author: 'Сем Сміт'
 author_image: 'https://randomuser.me/api/portraits/men/18.jpg'
 ---
-## Trimming the hair on the pads of the paws, which facilitates their washing and drying after walking
+## Підстригання шерсті на подушечках лап, що полегшує їх миття та висихання після прогулянок
 
-**Hair Grooming Between the Toes**
-The hair between the toes needs to be properly groomed because it can trap splinters, pebbles, or debris. Tow hair is also prone to catching bacteria from wet surfaces that your dog might have walked on or from other dirty surfaces.
+**Догляд за волоссям між пальцями ніг**
+Волосся між пальцями ніг потрібно належним чином доглядати, оскільки в них можуть потрапити осколки, камінці чи сміття. Шерсть також схильна до зараження бактеріями з вологих поверхонь, по яких могла ходити ваша собака, або з інших брудних поверхонь.
 
-**Maintaining Paw Pads**
-Dog's paw pads become rough to facilitate walking on rough surfaces. You should not prevent this hardening by letting your dog walk only on soft surfaces. However, you must take care of hardened paw pads as well.
+**Догляд за подушечками лап**
+Подушечки лап собаки стають грубими, щоб полегшити ходьбу по нерівній поверхні. Ви не повинні запобігати цьому затвердінню, дозволяючи вашій собаці гуляти лише на м’яких поверхнях. Однак ви також повинні подбати про загартовані подушечки лап.
 
-**Avoid Cracking**
-Due to being extremely tough, paw pads tend to break and bleed when they get too dry. To prevent this, you can apply specialized dog paw pad moisturizers. Avoids using lotions made for humans as they can be too soft for a dog's pads.
+**Уникайте розтріскування**
+Через те, що вони надзвичайно міцні, подушечки лап можуть ламатися та кровоточити, коли стають занадто сухими. Щоб запобігти цьому, ви можете застосувати спеціальні зволожуючі засоби для подушечок собачих лап. Уникайте використання лосьйонів, призначених для людей, оскільки вони можуть бути занадто м’якими для подушечок собаки.
