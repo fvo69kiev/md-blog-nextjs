@@ -1,18 +1,18 @@
 ---
-title: 'SPA & masks'
-date: 'May 12, 2022'
-excerpt: 'SPA masks is necessary for those animals that have problems with dry skin and fur, brittle hair, frequent swallowing, alopecia in Spitz and others.'
+title: 'СПА і маски'
+date: 'Травень 12, 2022'
+excerpt: 'СПА маски необхідні тим тваринам, які мають проблеми з сухістю шкіри і шерсті, ламкістю шерсті, частим ковтанням, облисінням у шпіців та інше.'
 cover_image: '/images/posts/spa-masks.jpg'
 category: 'SPA'
-author: 'Jane Doe'
+author: 'Джейн Доу'
 author_image: 'https://randomuser.me/api/portraits/women/11.jpg'
 ---
 
-## SPA masks
-That procedure is necessary for those animals that have problems with dry skin and fur, brittle hair, frequent swallowing, alopecia in Spitz and others.
+## СПА маски
+Ця процедура необхідна тим тваринам, які мають проблеми з сухістю шкіри і шерсті, ламкістю шерсті, частим ковтанням, облисінням у шпіців та інше.
 
-Also a great procedure for show animals to enhance the beauty of wool or restore it in the inter-exhibition period.
-Excellent procedure during laziness. Helps to get rid of old hair faster and increase the brightness of new ones.
+Також ця процедура чудова для виставкових тварин, щоб підсилити красу вовни або відновити її в міжвиставковий період.
+Відмінна процедура під час ліні. Допомагає швидше позбутися старого волосся і збільшити яскравість нових.
 
-Of course, this procedure helps to relax, calm the nervous system and the animals really like it.
-We will always choose a spa complex according to the type of wool and your wishes.
+Звичайно, ця процедура допомагає розслабитися, заспокоїти нервову систему і тваринам це дуже подобається.
+Ми завжди підберемо спа-комплекс відповідно до типу вовни та ваших побажань.
