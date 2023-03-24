@@ -1,24 +1,24 @@
 ---
-title: 'Haircut & ears and eyes'
-date: 'May 7, 2021'
-excerpt: 'Remove hair as needed on the ears and around the eyes'
+title: 'Стрижка, вуха та очі'
+date: 'Травень 7, 2021'
+excerpt: 'За необхідності видаліть волосся на вухах і навколо очей'
 cover_image: '/images/posts/haircut-around-eyes.jpg'
 category: 'Haircut'
-author: 'Mike Richards'
+author: 'Майк Річардс'
 author_image: 'https://randomuser.me/api/portraits/men/13.jpg'
 ---
 
-## How to Trim Hair from Your Dog's Eyes & Ears
-Not all dog breeds require routine trimming of the coat around the eyes and ears, but all should undergo regular inspection and cleaning around these sensitive areas.
-It will help prevent the development of infections that could seriously damage these vital organs.
+## Як підстригти шерсть з очей і вух вашої собаки
+Не всі породи собак потребують регулярного підстригання шерсті навколо очей і вух, але всі вони повинні проходити регулярний огляд і чищення навколо цих чутливих зон.
+Це допоможе запобігти розвитку інфекцій, які можуть серйозно пошкодити ці життєво важливі органи.
 
-Dogs with heavy, wiry, curly, corded, double or combination coats are likely to benefit from periodic trimming around the eyes and ears but many with short or smooth coats may never need it.
-It’s a simple procedure with blunt scissors or the right trimmer. Cleaning should be done on a regular basis. Poodles and spaniels often incur tear stains under the eyes but these can be controlled by the use of warm water and a cotton ball. Never use soap near a dog’s eyes.
+Собаки з густою, жорсткою, кучерявою, шерстю, подвійною або комбінованою шерстю, швидше за все, отримають користь від періодичного підстригання навколо очей і вух, але багатьом із короткою або гладкою шерстю воно може ніколи не знадобитися.
+Це проста процедура за допомогою тупих ножиць або правильного тримера. Чистку слід проводити регулярно. У пуделів і спанієлів часто з’являються плями від сліз під очима, але їх можна контролювати за допомогою теплої води та ватної кульки. Ніколи не використовуйте мило біля очей собаки.
 
-Dogs with floppy ears benefit from weekly ear cleaning but others generally can be cleaned on a monthly basis. Wahl has all of the tools to do the job.
+Собакам із висунутими вухами корисно щотижневе чищення вух, але іншим зазвичай можна чистити щомісяця. Wahl має всі інструменти для роботи.
 
-What you need:
+Що тобі потрібно:
 
-1. Cotton balls or gentle wash cloth
-2. Gentle oil cleanser or wipes (for ears)
-3. Blunt scissors or approved pet trimmer
+1. Ватні кульки або ніжна тканина для прання.
+2. Ніжне масляне миючий засіб або серветки (для вух).
+3. Тупі ножиці або дозволений тример для домашніх тварин.
