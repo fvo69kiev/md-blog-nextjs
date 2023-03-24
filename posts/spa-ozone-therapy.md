@@ -1,29 +1,29 @@
 ---
-title: 'SPA & ozone therapy'
-date: 'May 12, 2022'
-excerpt: 'Ozone therapy is necessary for those animals that have problems with dry skin and fur, brittle hair, frequent swallowing, alopecia in Spitz and others.'
+title: 'СПА та озонотерапія'
+date: 'Травень 12, 2022'
+excerpt: 'Озонотерапія необхідна тим тваринам, у яких є проблеми з сухістю шкіри і шерсті, ламкістю шерсті, частим ковтанням, алопецією у шпіців та інше.'
 cover_image: '/images/posts/spa-ozone-therapy.jpg'
 category: 'SPA'
-author: 'Jane Doe'
+author: 'Джейн Доу'
 author_image: 'https://randomuser.me/api/portraits/women/11.jpg'
 ---
 
-## Ozone therapy
-That procedure is necessary for those animals that have problems with dry skin and fur, brittle hair, frequent swallowing, alopecia in Spitz and others.
+## Озонотерапія
+Ця процедура необхідна тим тваринам, які мають проблеми з сухістю шкіри і шерсті, ламкістю шерсті, частим ковтанням, облисінням у шпіців та інше.
 
-Also a great procedure for show animals to enhance the beauty of wool or restore it in the inter-exhibition period.
-Excellent procedure during laziness. Helps to get rid of old hair faster and increase the brightness of new ones.
+Також ця процедура чудова для виставкових тварин, щоб підсилити красу вовни або відновити її в міжвиставковий період.
+Відмінна процедура під час ліні. Допомагає швидше позбутися старого волосся і збільшити яскравість нових.
 
-Of course, this procedure helps to relax, calm the nervous system and the animals really like it.
-We will always choose a spa complex according to the type of wool and your wishes.
+Звичайно, ця процедура допомагає розслабитися, заспокоїти нервову систему і тваринам це дуже подобається.
+Ми завжди підберемо спа-комплекс відповідно до типу вовни та ваших побажань.
 
-## How Ozone Heals
-In the body, ozone combines with amino acids and lipids to create compounds called ozonides.
+## Як лікує озон
+В організмі озон поєднується з амінокислотами та ліпідами, утворюючи сполуки, які називаються озонідами.
 
-These ozonides are what actually cause the biological effects of ozone. They can easily pass through cell membranes and exert their main effect … which is to improve energy production through improved oxygen utilization.
+Саме ці озоніди спричиняють біологічний вплив озону. Вони можуть легко проходити крізь клітинні мембрани та виявляти свій головний ефект … який полягає в покращенні виробництва енергії за рахунок покращеного використання кисню.
 
-That’s why it’s so effective. Cellular degeneration often stems from an inability of the cells to use oxygen efficiently. So ozone therapy can improve the health and function of the body’s cells.
+Ось чому це так ефективно. Клітинна дегенерація часто виникає через нездатність клітин ефективно використовувати кисень. Таким чином, озонотерапія може покращити здоров’я та роботу клітин організму.
 
-Cells’ ability to use oxygen depends on the amount of NAD (Nicotinamide Adenine Dinucleotide) that’s available to them. Ozone promotes an oxidation reaction that creates NAD from NADH. (NADH is NAD plus 1 hydrogen atom.)  This then provides more energy that the cell can use to function optimally.
+Здатність клітин використовувати кисень залежить від кількості НАД (нікотинамідаденіндінуклеотиду), який їм доступний. Озон сприяє реакції окислення, яка створює NAD з NADH. (NADH — це NAD плюс 1 атом водню.) Це забезпечує більше енергії, яку клітина може використовувати для оптимального функціонування.
 
-Once the cells have the proper amount of energy to work effectively, tissues in the body can heal.  Ozonides are also very stable, lasting from days to weeks in the body. This prolongs the benefits of ozone long after the actual treatment.
+Коли клітини отримують необхідну кількість енергії для ефективної роботи, тканини в організмі можуть відновлюватися. Озоніди також дуже стабільні, зберігаються в організмі від днів до тижнів. Це подовжує дію озону надовго після фактичного лікування.
